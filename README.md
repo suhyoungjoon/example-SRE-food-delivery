@@ -53,6 +53,17 @@ root@labs--228040846:/home/project/gateway# aws iam list-account-aliases
 }
 root@labs--228040846:/home/project/gateway# 
 
+**수행3 클러스터 구성
+root@labs--228040846:~/.aws# aws eks --region eu-west-1 update-kubeconfig --name user28-eks
+Added new context arn:aws:eks:eu-west-1:271153858532:cluster/user28-eks to /root/.kube/config
+root@labs--228040846:~/.aws# kubectl get all
+NAME                 TYPE        CLUSTER-IP   EXTERNAL-IP   PORT(S)   AGE
+service/kubernetes   ClusterIP   10.100.0.1   <none>        443/TCP   13m
+root@labs--228040846:~/.aws# kubectl config current-context
+arn:aws:eks:eu-west-1:271153858532:cluster/user28-eks
+root@labs--228040846:~/.aws# 
+  
+
   - DevOps Toolchain 구축 
   - 분산 메시징 플랫폼 구성 
   - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
