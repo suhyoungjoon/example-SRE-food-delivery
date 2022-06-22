@@ -65,6 +65,13 @@ root@labs--228040846:~/.aws#
   
 
   - DevOps Toolchain 구축 
+
+  **수행4 코드빌드 구성 (gateway)
+  
+  ![image](https://user-images.githubusercontent.com/61151016/174957308-507bb901-bec5-4e65-9f01-546c3a655b6f.png)
+
+ 
+  
   - 분산 메시징 플랫폼 구성 
   - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
   - SLA 운영 - 무정지 배포(Zero downtime Deploy) 
