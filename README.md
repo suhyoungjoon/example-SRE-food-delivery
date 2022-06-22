@@ -45,29 +45,13 @@
   - 
   **수행2 프로비저닝
   
-  root@labs--228040846:/home/project/gateway# aws configure
-AWS Access Key ID [None]: AKIAT6IQHQ7SD36AIA4R
-AWS Secret Access Key [None]: 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
-Default region name [None]: eu-central-1
-Default output format [None]: json
-root@labs--228040846:/home/project/gateway# aws iam list-account-aliases
-{
-    "AccountAliases": [
-        "aivle"
-    ]
-}
-root@labs--228040846:/home/project/gateway# 
+![image](https://user-images.githubusercontent.com/61151016/174961815-0783be71-3c8c-4bc8-a314-8b954fcd385e.png)
+
 
 **수행3 클러스터 구성
 
-root@labs--228040846:~/.aws# aws eks --region eu-west-1 update-kubeconfig --name user28-eks
-Added new context arn:aws:eks:eu-west-1:271153858532:cluster/user28-eks to /root/.kube/config
-root@labs--228040846:~/.aws# kubectl get all
-NAME                 TYPE        CLUSTER-IP   EXTERNAL-IP   PORT(S)   AGE
-service/kubernetes   ClusterIP   10.100.0.1   <none>        443/TCP   13m
-root@labs--228040846:~/.aws# kubectl config current-context
-arn:aws:eks:eu-west-1:271153858532:cluster/user28-eks
-root@labs--228040846:~/.aws# 
+![image](https://user-images.githubusercontent.com/61151016/174961698-bd9fe9f2-79e3-4fbe-8ede-632cf5c6be29.png)
+
   
 
   - DevOps Toolchain 구축 
