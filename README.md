@@ -37,6 +37,20 @@
   **수행1 리파지토리 포크 (개인 깃허브 계정)
   - ![image](https://user-images.githubusercontent.com/61151016/174928898-ec50968b-db02-4228-882c-6267fc86af99.png)
   - Cloud Platform 프로비저닝 
+  **수행2 프로비저닝
+  root@labs--228040846:/home/project/gateway# aws configure
+AWS Access Key ID [None]: AKIAT6IQHQ7SD36AIA4R
+AWS Secret Access Key [None]: 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
+Default region name [None]: eu-central-1
+Default output format [None]: json
+root@labs--228040846:/home/project/gateway# aws iam list-account-aliases
+{
+    "AccountAliases": [
+        "aivle"
+    ]
+}
+root@labs--228040846:/home/project/gateway# 
+
   - DevOps Toolchain 구축 
   - 분산 메시징 플랫폼 구성 
   - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
