@@ -44,6 +44,7 @@
   - Cloud Platform 프로비저닝 
   - 
   **수행2 프로비저닝
+  
   root@labs--228040846:/home/project/gateway# aws configure
 AWS Access Key ID [None]: AKIAT6IQHQ7SD36AIA4R
 AWS Secret Access Key [None]: 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
@@ -58,6 +59,7 @@ root@labs--228040846:/home/project/gateway# aws iam list-account-aliases
 root@labs--228040846:/home/project/gateway# 
 
 **수행3 클러스터 구성
+
 root@labs--228040846:~/.aws# aws eks --region eu-west-1 update-kubeconfig --name user28-eks
 Added new context arn:aws:eks:eu-west-1:271153858532:cluster/user28-eks to /root/.kube/config
 root@labs--228040846:~/.aws# kubectl get all
