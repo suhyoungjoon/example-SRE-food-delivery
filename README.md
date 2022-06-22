@@ -34,9 +34,11 @@
   - 이벤트스토밍 모델 이해
   - 폴리글랏 프로그래밍 코드(동기호출, 비동기 호출) 이해 
   - MSA 아키텍처 구성
+  - 
   **수행1 리파지토리 포크 (개인 깃허브 계정)
   - ![image](https://user-images.githubusercontent.com/61151016/174928898-ec50968b-db02-4228-882c-6267fc86af99.png)
   - Cloud Platform 프로비저닝 
+  - 
   **수행2 프로비저닝
   root@labs--228040846:/home/project/gateway# aws configure
 AWS Access Key ID [None]: AKIAT6IQHQ7SD36AIA4R
