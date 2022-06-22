@@ -60,7 +60,10 @@
   
   ![image](https://user-images.githubusercontent.com/61151016/174957308-507bb901-bec5-4e65-9f01-546c3a655b6f.png)
 
- 
+  **수행5 코드빌드 (쿠버네티스연결 실행까지)
+  
+  ![image](https://user-images.githubusercontent.com/61151016/174979628-3c22b182-a8f5-4061-bfba-fed514882325.png)
+
   
   - 분산 메시징 플랫폼 구성 
   - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
