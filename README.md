@@ -66,6 +66,13 @@
 
   
   - 분산 메시징 플랫폼 구성 
+  -
+  **수행6 카프카설치, gateway 타입 로드발란서 변경이후 코드빌더 실행까지
+  
+  ![image](https://user-images.githubusercontent.com/61151016/175185970-16e6e694-1512-46e5-ab71-75647c1a36e7.png)
+  
+  
+
   - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
   - SLA 운영 - 무정지 배포(Zero downtime Deploy) 
   - Service Mesh 인프라 구축
