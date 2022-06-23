@@ -77,6 +77,11 @@
   
   ![배포테스트-주문삭제](https://user-images.githubusercontent.com/61151016/175192037-9107f6e4-4bdc-4782-aabb-a20d79d6aac8.PNG)
 
+  **수행7 오토 스케일링
+  
+  ![오토스케일링 pod 증가](https://user-images.githubusercontent.com/61151016/175232035-5222f3b1-bce7-4425-97eb-dad40e535608.PNG)
+  
+  ![오토스케일링 siege 실행](https://user-images.githubusercontent.com/61151016/175232045-5cf77af8-5a99-48d3-9e0e-6d91605ed367.PNG)
 
 
   - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
