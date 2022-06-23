@@ -71,7 +71,13 @@
   
   ![image](https://user-images.githubusercontent.com/61151016/175185970-16e6e694-1512-46e5-ab71-75647c1a36e7.png)
   
+  ![배포테스트-상품등록](https://user-images.githubusercontent.com/61151016/175191941-4b52d62c-05a5-46a4-951e-5a4f7e01a737.PNG)
   
+  ![배포테스트-주문생성](https://user-images.githubusercontent.com/61151016/175192009-faef9476-064c-4313-bcd9-169ac5d9cd97.PNG)
+  
+  ![배포테스트-주문삭제](https://user-images.githubusercontent.com/61151016/175192037-9107f6e4-4bdc-4782-aabb-a20d79d6aac8.PNG)
+
+
 
   - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
   - SLA 운영 - 무정지 배포(Zero downtime Deploy) 
