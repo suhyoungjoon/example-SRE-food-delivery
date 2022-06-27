@@ -77,18 +77,31 @@
   
   ![배포테스트-주문삭제](https://user-images.githubusercontent.com/61151016/175192037-9107f6e4-4bdc-4782-aabb-a20d79d6aac8.PNG)
 
+  - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
+
+
   **수행7 오토 스케일링
   
   ![오토스케일링 pod 증가](https://user-images.githubusercontent.com/61151016/175232035-5222f3b1-bce7-4425-97eb-dad40e535608.PNG)
   
   ![오토스케일링 siege 실행](https://user-images.githubusercontent.com/61151016/175232045-5cf77af8-5a99-48d3-9e0e-6d91605ed367.PNG)
 
-
-  - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
-  - SLA 운영 - 무정지 배포(Zero downtime Deploy) 
+- SLA 운영 - 무정지 배포(Zero downtime Deploy) 
   - Service Mesh 인프라 구축
+  
+  **수행8 서비스매쉬 구축
+  
+  <img width="769" alt="서비스매쉬-인젝션" src="https://user-images.githubusercontent.com/61151016/175842194-6d62cedf-38b9-4900-8929-f7a0548ca2a1.PNG">
+
   - Service Mesh 기반 마이크로서비스 Resilience 적용
   - 마이크로서비스 통합 모니터링
+  
+  **수행9 통합 모니터링
+  
+  
+  <img width="904" alt="그라파타-마이크로서비스모니터링" src="https://user-images.githubusercontent.com/61151016/175842700-a600f5c6-f3b0-4594-a49e-c7b4ff25700a.PNG">
+  <img width="895" alt="그라파타-쿠버네티스클러스터모니터링" src="https://user-images.githubusercontent.com/61151016/175842704-d107e499-83c4-40eb-9176-2b5948ea116c.PNG">
+
   - 마이크로서비스 통합 로깅
   - 분산 메시징 플랫폼 모니터링
 
