@@ -36,7 +36,7 @@
   - MSA 아키텍처 구성
   **0 MSA 아키텍쳐
   
-  ![image](https://user-images.githubusercontent.com/61151016/174960734-29d212b1-eb63-47a6-9c16-41df14964727.png)
+![image](https://user-images.githubusercontent.com/61151016/175862182-2f0c7967-058b-4c74-a622-3adeee8df215.png)
 
   - 
   **수행1 리파지토리 포크 (개인 깃허브 계정)
