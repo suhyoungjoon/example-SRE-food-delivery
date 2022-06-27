@@ -59,14 +59,18 @@
   **수행4 코드빌드 구성 (gateway)
   
   ![image](https://user-images.githubusercontent.com/61151016/174957308-507bb901-bec5-4e65-9f01-546c3a655b6f.png)
+  
+  코드빌드 (전체)  
+  ![image](https://user-images.githubusercontent.com/61151016/175862454-cfe38a28-f704-4225-976e-3c0b37fe2705.png)
+
 
   **수행5 코드빌드 (쿠버네티스연결 실행까지)
   
   ![image](https://user-images.githubusercontent.com/61151016/174979628-3c22b182-a8f5-4061-bfba-fed514882325.png)
-
   
-  - 분산 메시징 플랫폼 구성 
-  -
+  pod 전체 배포 실행까지
+  ![image](https://user-images.githubusercontent.com/61151016/175862686-519a035f-0923-47cb-b4be-8efc81211661.png)
+
   **수행6 카프카설치, gateway 타입 로드발란서 변경이후 코드빌더 실행까지
   
   ![image](https://user-images.githubusercontent.com/61151016/175185970-16e6e694-1512-46e5-ab71-75647c1a36e7.png)
@@ -87,7 +91,8 @@
   ![오토스케일링 siege 실행](https://user-images.githubusercontent.com/61151016/175232045-5cf77af8-5a99-48d3-9e0e-6d91605ed367.PNG)
 
 - SLA 운영 - 무정지 배포(Zero downtime Deploy) 
-  - Service Mesh 인프라 구축
+
+- Service Mesh 인프라 구축
   
   **수행8 서비스매쉬 구축
   
