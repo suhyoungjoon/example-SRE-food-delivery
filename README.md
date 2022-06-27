@@ -103,6 +103,14 @@
   <img width="895" alt="그라파타-쿠버네티스클러스터모니터링" src="https://user-images.githubusercontent.com/61151016/175842704-d107e499-83c4-40eb-9176-2b5948ea116c.PNG">
 
   - 마이크로서비스 통합 로깅
+  
+  **수행10 키바나 설치 및 인덱스 연결
+  
+<img width="773" alt="ELK구성" src="https://user-images.githubusercontent.com/61151016/175847525-2892622d-e2f7-4d16-8418-aecc94ce4f7b.PNG">
+
+<img width="670" alt="키바나인덱스연결" src="https://user-images.githubusercontent.com/61151016/175847362-68eb1fcd-52af-4b28-9654-647eb1a280c7.PNG">
+
+
   - 분산 메시징 플랫폼 모니터링
 
 - **PreLab 참고자료**
