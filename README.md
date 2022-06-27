@@ -34,9 +34,10 @@
   - 이벤트스토밍 모델 이해
   - 폴리글랏 프로그래밍 코드(동기호출, 비동기 호출) 이해 
   - MSA 아키텍처 구성
-  **0 MSA 아키텍쳐
+  - 
+  **수행0 MSA 아키텍쳐
   
-![image](https://user-images.githubusercontent.com/61151016/175862182-2f0c7967-058b-4c74-a622-3adeee8df215.png)
+![image](https://user-images.githubusercontent.com/61151016/175868105-866b6035-aeed-4ec4-afc7-06570519cb4e.png)
 
   - 
   **수행1 리파지토리 포크 (개인 깃허브 계정)
