@@ -114,6 +114,13 @@
 
   - 분산 메시징 플랫폼 모니터링
 
+  **수행11 카프카 ui 설치 및 모니터링
+ 
+<img width="956" alt="카프카모니터링-토픽" src="https://user-images.githubusercontent.com/61151016/175859674-15c52eb8-b314-4f09-9a2a-5baa7f832ee3.PNG">
+<img width="955" alt="키바나 모니터링" src="https://user-images.githubusercontent.com/61151016/175859677-c0fbd884-9102-4941-a017-4f6e0384bea3.PNG">
+<img width="943" alt="카프카모니터링-메세지" src="https://user-images.githubusercontent.com/61151016/175859678-0783db58-37c5-40b8-8291-0d2ca9dcc492.PNG">
+
+
 - **PreLab 참고자료**
   - [핵심요소 기술 교재](https://drive.google.com/drive/folders/1atL7qAz4zPLcMiQvW-3PvrU1qmggdziD) (Ctrl + 클릭)
   - [Mini Shopping mall 이벤트스토밍 모델](https://labs.msaez.io/#/storming/C7pO0ZuWtXXxIKenocD9EMPYrxw2/98f0cfeee84ff3ded1a1b00f9cd38ac3) (Ctrl + 클릭) 
