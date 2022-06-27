@@ -110,6 +110,7 @@
 
 <img width="670" alt="키바나인덱스연결" src="https://user-images.githubusercontent.com/61151016/175847362-68eb1fcd-52af-4b28-9654-647eb1a280c7.PNG">
 
+<img width="955" alt="키바나 모니터링" src="https://user-images.githubusercontent.com/61151016/175848902-fc856041-0864-481c-b543-491ae23dc4a8.PNG">
 
   - 분산 메시징 플랫폼 모니터링
 
