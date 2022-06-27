@@ -40,9 +40,11 @@
 
   - 
   **수행1 리파지토리 포크 (개인 깃허브 계정)
-  - ![image](https://user-images.githubusercontent.com/61151016/174928898-ec50968b-db02-4228-882c-6267fc86af99.png)
+  ![image](https://user-images.githubusercontent.com/61151016/175863048-27182a16-c08e-44e0-a4b8-d7b9af2d3a16.png)
+
+  
   - Cloud Platform 프로비저닝 
-  - 
+   
   **수행2 프로비저닝
   
 ![image](https://user-images.githubusercontent.com/61151016/174961815-0783be71-3c8c-4bc8-a314-8b954fcd385e.png)
